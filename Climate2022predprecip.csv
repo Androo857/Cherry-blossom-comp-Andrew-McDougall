@@ -1,0 +1,5 @@
+location,lat,long,alt,year,bloom_date,month,meantemp,tmax1,tmin1,precip1,tmax2,tmin2,precip2,latdata,longdata,altdata,datasource
+kyoto,35.0119831,135.6761135,44,2022,NA,NA,NA,8.223,NA,NA,9.254,NA,12,35.0119831,135.6761135,44,kyoto
+liestal,47.4814,7.730519,350,2022,NA,NA,NA,6.693,NA,NA,10.278,NA,44,47.6,7.5,270,bale_mulhouse
+vancouver,49.2236916,-123.1636251,24,2022,NA,NA,NA,6.455,NA,NA,7.168,NA,29,49.2,-123.1833,4,Vancouver_INT
+washingtondc,38.8853496,-77.0386278,0,2022,NA,NA,NA,4.49,NA,NA,10.54,NA,56,38.95,77.45,95,dullesINT
